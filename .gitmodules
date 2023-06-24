@@ -1,0 +1,3 @@
+[submodule "Alpha-NAS-for-LLMs"]
+	path = Alpha-NAS-for-LLMs
+	url = https://github.com/viraatdas/Alpha-NAS-for-LLMs.git
